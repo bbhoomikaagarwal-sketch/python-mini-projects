@@ -1,20 +1,49 @@
-# Rock Paper Scissors Game
+# Python Mini Projects
 
-A simple Python Rock Paper Scissors game where the player competes against the computer.
+A collection of beginner-friendly Python projects created while learning Python programming.
 
-## Features
-- Random computer choices
-- Input validation
-- Win/Lose/Tie detection
+## Projects
 
-## How to Run
+### 🎮 Rock Paper Scissors Game
 
-1. Install Python
-2. Download the file
-3. Run:
+A simple game where the player competes against the computer.
 
-python rock_paper_scissors_game.py
+**Features:**
+
+* Random computer choices
+* Input validation
+* Win/Lose/Tie detection
+
+### 🔢 Number Guessing Game
+
+A game where the player tries to guess a randomly generated number.
+
+**Features:**
+
+* Random number generation
+* Hints (Too High / Too Low)
+* Attempt counter
+* Uses loops and conditions
+
+## Technologies Used
+
+* Python
+* Git
+* GitHub
+* VS Code
+
+## Learning Goals
+
+* Improve Python programming skills
+* Practice problem-solving
+* Learn Git and GitHub
+* Build a strong foundation for AI and Machine Learning
 
 ## Author
 
-Bhoomika Agarwal
+**Bhoomika Agarwal**
+
+GitHub: https://github.com/bbhoomikaagarwal-sketch
+
+
+
