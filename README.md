@@ -14,6 +14,14 @@ A simple game where the player competes against the computer.
 * Input validation
 * Win/Lose/Tie detection
 
+**Run:**
+
+```bash
+python rock_paper_scissors_game.py
+```
+
+---
+
 ### 🔢 Number Guessing Game
 
 A game where the player tries to guess a randomly generated number.
@@ -21,29 +29,38 @@ A game where the player tries to guess a randomly generated number.
 **Features:**
 
 * Random number generation
-* Hints (Too High / Too Low)
-* Attempt counter
-* Uses loops and conditions
+* User input handling
+* Unlimited attempts until correct guess
+* Win message when guessed correctly
 
-## Technologies Used
+**Run:**
 
-* Python
-* Git
-* GitHub
-* VS Code
+```bash
+python number_guessing_game.py
+```
 
-## Learning Goals
+---
 
-* Improve Python programming skills
-* Practice problem-solving
-* Learn Git and GitHub
-* Build a strong foundation for AI and Machine Learning
+### 🔐 Password Generator
+
+A Python program that generates random passwords using letters, numbers, and special characters.
+
+**Features:**
+
+* User-defined password length
+* Random password generation
+* Includes letters, digits, and special characters
+
+**Run:**
+
+```bash
+python password_generator.py
+```
+
+---
 
 ## Author
 
 **Bhoomika Agarwal**
 
-GitHub: https://github.com/bbhoomikaagarwal-sketch
-
-
-
+Python learner building projects and documenting the journey one project at a time.
