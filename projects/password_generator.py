@@ -8,5 +8,6 @@ n=int(input("enter the length of password:"))
 new_password=""
 for i in range(n):
     new_password+=(random.choice(all_characters))
+
 print("the new strong password is:",new_password)
 
