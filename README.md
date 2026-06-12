@@ -1,66 +1,93 @@
-# Python Mini Projects
+# Python Mini Projects 🚀
 
-A collection of beginner-friendly Python projects created while learning Python programming.
+A collection of Python projects built while learning Python and documenting my journey from beginner to advanced concepts.
 
-## Projects
+## 🌟 90 Days of Python Challenge
+
+I am currently building Python projects consistently to improve my programming, problem-solving, and software development skills.
+
+## 📂 Projects
 
 ### 🎮 Rock Paper Scissors Game
 
 A simple game where the player competes against the computer.
 
-**Features:**
+**Concepts Used:**
 
-* Random computer choices
-* Input validation
-* Win/Lose/Tie detection
-
-**Run:**
-
-```bash
-python rock_paper_scissors_game.py
-```
+* User Input
+* Conditional Statements
+* Random Module
 
 ---
 
 ### 🔢 Number Guessing Game
 
-A game where the player tries to guess a randomly generated number.
+The computer generates a random number and the player keeps guessing until the correct answer is found.
 
-**Features:**
+**Concepts Used:**
 
-* Random number generation
-* User input handling
-* Unlimited attempts until correct guess
-* Win message when guessed correctly
-
-**Run:**
-
-```bash
-python number_guessing_game.py
-```
+* While Loops
+* Conditional Statements
+* Random Module
 
 ---
 
 ### 🔐 Password Generator
 
-A Python program that generates random passwords using letters, numbers, and special characters.
+Generates random passwords using letters, numbers, and special characters.
 
-**Features:**
+**Concepts Used:**
 
-* User-defined password length
-* Random password generation
-* Includes letters, digits, and special characters
-
-**Run:**
-
-```bash
-python password_generator.py
-```
+* Strings
+* Loops
+* Random Module
 
 ---
 
-## Author
+### 🎲 Dice Roller Simulator
+
+Simulates rolling a six-sided dice multiple times.
+
+**Concepts Used:**
+
+* Random Number Generation
+* Loops
+* User Input
+
+---
+
+### 🏦 Bank Management System
+
+A menu-driven banking application.
+
+**Features:**
+
+* Check Balance
+* Deposit Money
+* Withdraw Money
+* View Transaction Count
+* Invalid Input Handling
+
+**Concepts Used:**
+
+* Variables
+* While Loops
+* Conditional Statements
+* User Input
+* Program Flow Control
+
+---
+
+## 🎯 Learning Goals
+
+* Python Programming
+* Problem Solving
+* Data Structures & Algorithms
+* Artificial Intelligence
+* Software Development
+
+## 👩‍💻 Author
 
 **Bhoomika Agarwal**
 
-Python learner building projects and documenting the journey one project at a time.
+EEE Student | Learning Python & AI | Building Projects Daily
