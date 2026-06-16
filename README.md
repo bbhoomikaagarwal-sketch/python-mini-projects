@@ -85,6 +85,50 @@ A menu-driven banking application.
 * Data Structures & Algorithms
 * Artificial Intelligence
 * Software Development
+  
+### 📝 To-Do List Manager
+
+A simple Python-based To-Do List Manager that helps users organize and track their daily tasks.
+
+### Features
+
+* Add multiple tasks
+* View all tasks
+* Remove completed tasks
+* Count total tasks
+* Menu-driven interface
+
+### Concepts Used
+
+* Lists
+* Loops (`for`, `while`)
+* Conditional Statements
+* User Input Handling
+* `append()`, `remove()`, `len()`
+
+---
+
+## 📒 Contact Book
+
+A Python Contact Book application that allows users to store and manage contacts efficiently.
+
+### Features
+
+* Add contacts
+* Search contacts
+* Delete contacts
+* View all contacts
+* Menu-driven interface
+
+### Concepts Used
+
+* Dictionaries
+* Key-Value Pairs
+* Dictionary Lookup
+* Dictionary Update
+* Dictionary Deletion
+* User Input Handling
+
 
 ## 👩‍💻 Author
 
