@@ -128,6 +128,27 @@ A Python Contact Book application that allows users to store and manage contacts
 * Dictionary Update
 * Dictionary Deletion
 * User Input Handling
+### 💰 Expense Tracker
+
+A simple Python-based Expense Tracker that helps users record and monitor their daily expenses.
+
+### Features
+
+* Add expenses by category
+* View expenses by category
+* Calculate total expenses
+* Menu-driven interface
+* Easy expense management
+
+### Concepts Used
+
+* Dictionaries
+* Key-Value Pairs
+* Loops (`while`, `for`)
+* Conditional Statements (`if-elif-else`)
+* User Input Handling
+* Integer Operations
+* Running Total Calculation
 
 
 ## 👩‍💻 Author
