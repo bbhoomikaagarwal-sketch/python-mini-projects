@@ -149,7 +149,27 @@ A simple Python-based Expense Tracker that helps users record and monitor their 
 * User Input Handling
 * Integer Operations
 * Running Total Calculation
+## 🧮 Function-Based Calculator
 
+A Python calculator application built using functions to perform basic arithmetic operations.
+
+### Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Menu-driven interface
+* User-friendly input system
+
+### Concepts Used
+
+* Functions (`def`)
+* Parameters
+* Return Statements
+* Loops (`while`)
+* Conditional Statements (`if-elif-else`)
+* User Input Handling
 
 ## 👩‍💻 Author
 
