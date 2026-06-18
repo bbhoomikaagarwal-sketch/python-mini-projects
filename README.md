@@ -171,6 +171,34 @@ A Python calculator application built using functions to perform basic arithmeti
 * Conditional Statements (`if-elif-else`)
 * User Input Handling
 
+## 🎓 Student Management System
+
+A Python-based Student Management System built using functions and nested dictionaries to manage student records efficiently.
+
+### Features
+
+* Add Student
+* Search Student
+* Remove Student
+* View All Students
+* Menu-Driven Interface
+
+### Student Information Stored
+
+* Student Name
+* Roll Number
+* Subject
+* Marks
+
+### Concepts Used
+
+* Functions (`def`)
+* Dictionaries
+* Nested Dictionaries
+* Loops (`while`, `for`)
+* Conditional Statements (`if-elif-else`)
+* User Input Handling
+
 ## 👩‍💻 Author
 
 **Bhoomika Agarwal**
