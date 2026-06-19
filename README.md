@@ -199,6 +199,28 @@ A Python-based Student Management System built using functions and nested dictio
 * Conditional Statements (`if-elif-else`)
 * User Input Handling
 
+  ## 🧠 Quiz Application
+
+A Python-based Quiz Application that asks multiple-choice questions, checks user answers, and calculates the final score.
+
+### Features
+
+* Multiple Choice Questions (MCQs)
+* Answer Validation
+* Score Tracking
+* Final Score Display
+* Interactive User Input
+
+### Concepts Used
+
+* Lists
+* Dictionaries
+* List of Dictionaries
+* Loops (`for`)
+* Conditional Statements (`if-else`)
+* User Input Handling
+* Variables and Counters
+
 ## 👩‍💻 Author
 
 **Bhoomika Agarwal**
